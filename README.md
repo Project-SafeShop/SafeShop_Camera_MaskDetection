@@ -1,5 +1,5 @@
 # SafeShop_Camera_MaskDetection
-### Repository for Face Mask Detection made using OpenCV and TensorFlow Object Detection API
+### Repository for Face Mask Detection made using TensorFlow Object Detection API
 
 In this pandemic season and lockdown, people are required to follow certain rules and regulations to reduce and prevent further spread of the virus. 
 The goal of this camera project is to check if people are wearing masks correctly or not.
