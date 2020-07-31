@@ -16,6 +16,7 @@ Furthermore, camera can be attached to another system (like speakers, screen or 
   1. **with_mask** : if the mask is covering the face correctly
   2. **without_mask** : if the person is not wearing a mask
   3. **mask_weared_incorrect** : if the person is wearing a mask but it does not cover this face properly
+  
 The images used for training this model are taken from the [Kaggle Dataset](https://www.kaggle.com/andrewmvd/face-mask-detection).
 There are a few more images used for testing the model which were scraped from the net.
 
