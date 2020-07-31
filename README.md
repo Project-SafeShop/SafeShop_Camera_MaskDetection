@@ -17,6 +17,7 @@ Furthermore, camera can be attached to another system (like speakers, screen or 
   
   <p align="center">
     <img width="300" heigth="300" src="Images_for_readme/output2.png">
+    [test]
   </p>
   
   2. **without_mask** : if the person is not wearing a mask
