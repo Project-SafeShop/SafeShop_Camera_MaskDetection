@@ -16,7 +16,7 @@ There are a few more images used for testing the model which were scraped from t
 
 We have used the faster_rcnn_inception_v2 model for training the Face Mask Detector.
 
-The steps for building this model are:
+**The steps for building this model are:**
   1. Installing tensorflow-gpu and Anaconda distribution.
   2. Labelling images gather using labelImg and saving the XML files.
   3. Use the XML files to extract the information of the bounding boxes to csv files.
