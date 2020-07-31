@@ -28,5 +28,5 @@ Furthermore, camera can be attached to another system (like speakers, screen or 
   
 #### Resources used:
 1. Images used for training model from [Kaggle Dataset](https://www.kaggle.com/andrewmvd/face-mask-detection) (Images from testing were scraped from the net)
-2. A great [video tutorial]((https://www.youtube.com/watch?v=Rgpfk6eYxJA) from Edje Electronics
+2. A great [video tutorial](https://www.youtube.com/watch?v=Rgpfk6eYxJA) from Edje Electronics
   
