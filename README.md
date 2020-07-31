@@ -17,9 +17,6 @@ Furthermore, camera can be attached to another system (like speakers, screen or 
   2. **without_mask** : if the person is not wearing a mask
   3. **mask_weared_incorrect** : if the person is wearing a mask but it does not cover this face properly
   
-The images used for training this model are taken from the [Kaggle Dataset](https://www.kaggle.com/andrewmvd/face-mask-detection).
-There are a few more images used for testing the model which were scraped from the net.
-
 **The steps for building this model are:**
   1. Installing tensorflow-gpu and Anaconda distribution.
   2. Labelling images gather using labelImg and saving the XML files.
@@ -29,4 +26,7 @@ There are a few more images used for testing the model which were scraped from t
   6. Train your object detector till the loss is < 0.05
   7. Save your inference graph and your Face Mask Detector is ready to launch!
   
-  The resources used : [Resource](https://www.youtube.com/watch?v=Rgpfk6eYxJA)  (A great Tutorial from Edje Electronics)
+#### Resources used:
+1. Images used for training model from [Kaggle Dataset](https://www.kaggle.com/andrewmvd/face-mask-detection)
+2. A great [video tutorial]((https://www.youtube.com/watch?v=Rgpfk6eYxJA) from Edje Electronics
+  
