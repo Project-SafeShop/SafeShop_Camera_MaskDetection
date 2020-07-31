@@ -5,7 +5,12 @@ In this pandemic season and lockdown, people are required to follow certain rule
 The goal of this camera project is to check if people are wearing masks correctly or not.
 
 The camera can be installed near the entrance of the restaurants(or shops) and the camera will be used for face mask detection. 
-Furthermore, camera can be attached to another system (like speakers, screen or even auto-door) to notify the users and restrict their access if mask if not worn(or worn incorrectly)
+Furthermore, camera can be attached to another system (like speakers, screen or even auto-door) to notify people and restrict their access if mask if not worn(or worn incorrectly)
+
+#### Tools and Technologies Used:
+1. Python 3.x (with OpenCV,Tensorflow,faster_rcnn_inception_v2 model)
+2. Anaconda
+3. Google Colab
 
 #### The Machine Learning model consists of three classes:
   1. **with_mask** : if the mask is covering the face correctly
@@ -13,8 +18,6 @@ Furthermore, camera can be attached to another system (like speakers, screen or 
   3. **mask_weared_incorrect** : if the person is wearing a mask but it does not cover this face properly
 The images used for training this model are taken from the [Kaggle Dataset](https://www.kaggle.com/andrewmvd/face-mask-detection).
 There are a few more images used for testing the model which were scraped from the net.
-
-We have used the faster_rcnn_inception_v2 model for training the Face Mask Detector.
 
 **The steps for building this model are:**
   1. Installing tensorflow-gpu and Anaconda distribution.
