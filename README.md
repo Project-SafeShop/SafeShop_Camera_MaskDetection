@@ -11,7 +11,7 @@ This Machine Learning model consists of three classes:
   1. with_mask : if the mask is covering the face correctly
   2. without_mask : if the person is not wearing a mask
   3. mask_weared_incorrect : if the person is wearing a mask but it does not cover this face properly
-The images used for training this model are taken from the @[Kaggle Dataset](https://www.kaggle.com/andrewmvd/face-mask-detection).
+The images used for training this model are taken from the [Kaggle Dataset](https://www.kaggle.com/andrewmvd/face-mask-detection).
 There are a few more images used for testing the model which were scraped from the net.
 
 We have used the faster_rcnn_inception_v2 model for training the Face Mask Detector.
@@ -25,4 +25,4 @@ The steps for building this model are:
   6. Train your object detector till the loss is < 0.05
   7. Save your inference graph and your Face Mask Detector is ready to launch!
   
-  The resources used : @[Resource](https://www.youtube.com/watch?v=Rgpfk6eYxJA) (A great Tutorial from Edje Electronics)
+  The resources used : [Resource](https://www.youtube.com/watch?v=Rgpfk6eYxJA) (A great Tutorial from Edje Electronics)
