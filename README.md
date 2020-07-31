@@ -25,4 +25,4 @@ The steps for building this model are:
   6. Train your object detector till the loss is < 0.05
   7. Save your inference graph and your Face Mask Detector is ready to launch!
   
-  The resources used : @[Resources](https://www.youtube.com/watch?v=Rgpfk6eYxJA) (A great Tutorial from Edje Electronics)
+  The resources used : @[Resource](https://www.youtube.com/watch?v=Rgpfk6eYxJA) (A great Tutorial from Edje Electronics)
