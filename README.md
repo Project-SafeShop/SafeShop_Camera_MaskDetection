@@ -16,8 +16,9 @@ Furthermore, camera can be attached to another system (like speakers, screen or 
   1. **with_mask** : if the mask is covering the face correctly
   2. **without_mask** : if the person is not wearing a mask
   
-  <img align="left" width="100" height="100" src="Images_for_readme/output1.png">
-  
+  <p align="center">
+    <img width="460" src="Images_for_readme/output1.png">
+  </p>
   
   3. **mask_weared_incorrect** : if the person is wearing a mask but it does not cover this face properly
   
