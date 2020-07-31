@@ -22,13 +22,13 @@ Furthermore, camera can be attached to another system (like speakers, screen or 
   2. **without_mask** : if the person is not wearing a mask
   
   <p align="center">
-    <img width="300" src="Images_for_readme/output1.png">
+    <img width="300" height="300" src="Images_for_readme/output1.png">
   </p>
   
   3. **mask_weared_incorrect** : if the person is wearing a mask but it does not cover this face properly
   
   <p align="center">
-    <img width="300" src="Images_for_readme/output3.png">
+    <img width="300" height="300" src="Images_for_readme/output3.png">
   </p>
   
 #### The steps for building this model are:
