@@ -5,7 +5,7 @@ In this pandemic season and lockdown, people are required to follow certain rule
 The goal of this camera project is to check if people are wearing masks correctly or not.
 
 The camera can be installed near the entrance of the restaurants(or shops) and the camera will be used for face mask detection. 
-Furthermore, camera can be attached to another system (like speakers, screen or even auto-door) to notify people and restrict their access if mask if not worn(or worn incorrectly)
+Furthermore, the camera can be attached to another system (like speakers, screen or even auto-door) to notify people and restrict their access if mask if not worn(or worn incorrectly)
 
 #### Tools and Technologies Used:
 1. Python 3.x (with OpenCV,Tensorflow,faster_rcnn_inception_v2 model)
@@ -33,7 +33,7 @@ Furthermore, camera can be attached to another system (like speakers, screen or 
   
 #### The steps for building this model are:
   1. Installing tensorflow-gpu and Anaconda distribution.
-  2. Labelling images gather using labelImg and saving the XML files.
+  2. Labeling images gather using labelImg and saving the XML files.
   3. Use the XML files to extract the information of the bounding boxes to csv files.
   4. Use the csv files to generate the tf-records file.
   5. Generate a labelmap.pbtxt file according to your classes and configure your training.
